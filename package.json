@@ -17,11 +17,11 @@
   "dependencies": {
     "hubot": "2.5.0",
     "hubot-scripts": "2.4.3",
-    "hubot-irc": "0.1.4",
-    "optparse": "1.0.3",
+    "hubot-irc": "0.1.12",
+    "optparse": "1.0.4",
     "soupselect": ">=0.2.0",
     "htmlparser": ">=1.7.6",
-    "jsdom": ">=0.2.14"
+    "jsdom": ">=0.6.0"
 
   },
 
