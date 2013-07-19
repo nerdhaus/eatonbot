@@ -21,8 +21,8 @@
     "optparse": "1.0.4",
     "soupselect": ">=0.2.0",
     "htmlparser": ">=1.7.6",
-    "jsdom": ">=0.6.0"
-
+    "jsdom": ">=0.6.0",
+    "pg": "~0.10.2"
   },
 
   "engines": {
