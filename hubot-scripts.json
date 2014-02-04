@@ -1,4 +1,4 @@
 [
 "modulepuppy.coffee", "karma.coffee", "drupalorg.coffee", "twss.coffee",
 "tell.coffee", "xkcd.coffee", "botsnack.coffee",
-"pg-brain.coffee", "shipit.coffee"]
+"pg-brain.coffee", "shipit.coffee","clojure.coffee"]
