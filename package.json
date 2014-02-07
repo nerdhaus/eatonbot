@@ -22,7 +22,8 @@
     "soupselect": ">=0.2.0",
     "htmlparser": ">=1.7.6",
     "jsdom": ">=0.6.0",
-    "pg": "~0.10.2"
+    "pg": "~0.10.2",
+    "hubot-regex": ""
   },
 
   "engines": {
